@@ -15,4 +15,4 @@ Estudos de pandas organizados em ordem de aprendizado (abrem direto no Google Co
 
 | Projeto | Descrição |
 | ------- | --------- |
-| [Diagnóstico de preços do Airbnb no Rio](projeto_airbnb_rio/) | Tratamento e análise dos anúncios do Rio de Janeiro, simulando uma demanda de empresa ([briefing](projeto_airbnb_rio/BRIEFING.md)) |
+| [Diagnóstico de preços do Airbnb no Rio](https://github.com/pedrosampaiom2007-gif/Analise-de-dados-Airbnb-Rio) | Tratamento e análise dos anúncios do Rio de Janeiro, simulando uma demanda de empresa (repositório próprio) |
