@@ -10,3 +10,9 @@ Estudos de pandas organizados em ordem de aprendizado (abrem direto no Google Co
 | 02 | [Limpeza e tratamento de dados (churn)](notebooks/02_limpeza_e_tratamento_de_dados_churn.ipynb) | `json_normalize`, nulos, vazios, tipagem e outliers |
 | 03 | [Transformação e manipulação de dados](notebooks/03_transformacao_e_manipulacao_de_dados.ipynb) | `explode`, regex, conversão de tipos e tokenização |
 | 04 | [Seleção e agrupamento](notebooks/04_selecao_e_agrupamento.ipynb) | filtros, `melt`, `groupby`, `pivot_table` e gráficos |
+
+## Projeto prático
+
+| Projeto | Descrição |
+| ------- | --------- |
+| [Diagnóstico de preços do Airbnb no Rio](projeto_airbnb_rio/) | Tratamento e análise dos anúncios do Rio de Janeiro, simulando uma demanda de empresa ([briefing](projeto_airbnb_rio/BRIEFING.md)) |
